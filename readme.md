@@ -2,7 +2,7 @@
 
 Enter a pixel art realm. Battle powerful bosses, face off against tough enemies, and befriend characters as you journey through diverse environments. Discover hidden caves, uncover the island’s ancient past, and solve its mysteries. With a rich world full of animals and challenges, your adventure will test your skills at every turn. Will you conquer the unknown?
 
-**Official Website:** https://sullybase.github.io/Curse/ click to play
+**Official Website:** https://sullybase.github.io/Curse/
 
 **Developer:** [Sullydux](https://github.com/sullydux)
 
@@ -10,7 +10,7 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Itch.io:** [Play on Itch.io](https://sullydux.itch.io/curse)
 
-**Download:** [App for MacOS](https://sullybase.github.io/Curse/Download/)
+**Download:** [App for MacOS](https://sullybase.github.io/Curse/Download/) and [HTML](https://www.patreon.com/collection/2257751)
 
 **Updates:** [Next update info](https://sullybase.github.io/Curse/Updates/)
 

@@ -2,7 +2,7 @@
 
 Enter a pixel art realm. Battle powerful bosses, face off against tough enemies, and befriend characters as you journey through diverse environments. Discover hidden caves, uncover the island’s ancient past, and solve its mysteries. With a rich world full of animals and challenges, your adventure will test your skills at every turn. Will you conquer the unknown?
 
-**Official Website:** https://sullydux.github.io/Curse/
+**Official Website:** https://sullybase.github.io/Curse/
 
 **Developer:** [Sullydux](https://github.com/sullydux)
 
@@ -10,9 +10,9 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Itch.io:** [Play on Itch.io](https://sullydux.itch.io/curse)
 
-**Download:** [App for MacOS](https://sullydux.github.io/Curse/Download/) and [HTML](https://www.patreon.com/collection/2257751)
+**Download:** [App for MacOS](https://sullybase.github.io/Curse/Download/) and [HTML](https://www.patreon.com/collection/2257751)
 
-**Updates:** [Next update info](https://sullydux.github.io/Curse/Updates/)
+**Updates:** [Next update info](https://sullybase.github.io/Curse/Updates/)
 
 ---
 
@@ -192,7 +192,7 @@ While hovering over an item, press:
 
 This project is licensed under the terms found here:
 
-[View License](https://sullydux.github.io/Curse/LICENSE.txt)
+[View License](https://sullybase.github.io/Curse/LICENSE.txt)
 
 
 March 27th, 2026, the name changed from Curse of the Forsaken Isle to Forsaken Legends: Cursed Isle
