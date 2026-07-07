@@ -3,31 +3,11 @@
 <head>
   <meta charset="utf-8" />
 
-  <!-- Google Analytics (G-NNFNXMSV9R) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NNFNXMSV9R"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-NNFNXMSV9R');
-
-    // Track MacOS app downloads
-    function trackDownload() {
-      gtag('event', 'macos_app_download', {
-        'event_category': 'engagement',
-        'event_label': 'MacOS App Download',
-        'timestamp': new Date().toISOString(),
-        'platform': 'MacOS'
-      });
-      console.log('Download event tracked: MacOS app download initiated');
-    }
-  </script>
-
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Forsaken Legends: Cursed Isle - MacOS Download | A pixel art survival game by Sullydux</title>
-  <meta property="og:title" content="Forsaken Legends: Cursed Isle - MacOS Download | A pixel art survival game by Sullydux">
+  <title>Forsaken Legends: Cursed Isle - Download | A pixel art survival game by Sullydux</title>
+  <meta property="og:title" content="Forsaken Legends: Cursed Isle - Download | A pixel art survival game by Sullydux">
   <link rel="icon" type="image/x-icon" href="Icon.png">
-  <meta property="og:image" content="https://sullydux.github.io/Curse/MacOS/Icon.png">
+  <meta property="og:image" content="https://sullybase.github.io/Curse/MacOS/Icon.png">
 
   <meta name="description"
         content="Download Forsaken Legends: Cursed Isle for MacOS. Step into a vibrant pixel-art world of adventure, mystery, and danger. Battle powerful bosses, explore diverse environments, and uncover ancient secrets.">
@@ -35,7 +15,7 @@
         content="Download Forsaken Legends: Cursed Isle for MacOS. Step into a vibrant pixel-art world of adventure, mystery, and danger. Battle powerful bosses, explore diverse environments, and uncover ancient secrets.">
   <meta name="author" content="Sullydux">
   <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://sullydux.github.io/Curse/MacOS/">
+  <link rel="canonical" href="https://sullybase.github.io/Curse/MacOS/">
   <meta property="og:type" content="website">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -57,7 +37,8 @@
     html, body {
       height: 100%;
       margin: 0;
-      overflow: hidden;
+      overflow-x: hidden;
+      overflow-y: auto;
       background:
         radial-gradient(circle at 20% 0%, #1c2433 0%, transparent 45%),
         radial-gradient(circle at 80% 100%, #1a1b2c 0%, transparent 40%),
@@ -241,7 +222,7 @@
 
         <div class="download-section">
           <span class="download-label">Ready to explore the cursed isle?</span>
-          <a class="download-btn" href="MacOS_App.zip" download="Forsaken-Legends-MacOS.zip" onclick="trackDownload()">Download for MacOS</a>
+          <a class="download-btn" href="https://www.patreon.com/collection/2257751 " target="_blank" rel="noopener">Download</a>
         </div>
       </div>
     </section>

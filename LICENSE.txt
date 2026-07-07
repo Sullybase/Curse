@@ -25,14 +25,10 @@ Official versions of the game:
 Scratch:
 https://scratch.mit.edu/projects/963768137/
 
-Website:
-https://sullydux.github.io/Curse/
-
-Alternate website:
-https://sites.google.com/view/cursed-isle
-
 Itch.io:
 https://sullydux.itch.io/curse
+
+On Github and Patreon by the user Sullydux and/or in the organization Sullybase.
 
 And anything downloaded from the above official sources.
 
