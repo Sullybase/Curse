@@ -12,8 +12,6 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Download:** [App for MacOS](https://sullybase.github.io/Curse/Download/) and [HTML](https://www.patreon.com/collection/2257751)
 
-**Updates:** [Next update info](https://sullybase.github.io/Curse/Updates/)
-
 ---
 
 ## Praise
@@ -50,7 +48,7 @@ On the downloaded app version, to save go to your inventory, press E or I, and h
 
 ## Notes for obtaining MacOS app
 
-Use [this link](https://sullydux.github.io/Curse/MacOS/) to download the zip file then open it on your desktop. Open the app that unzips from it. It will then say something about the fact that can't scan for malware. It will give you two options: "Move to Trash" or "Done", hit done. Then go to System Settings -> Privacy & Security. Scroll until you see "'Forsaken Legends Cursed Isle' was blocked to protect your Mac." Hit open anyway, then again when the window shows up, and follow the steps it shows from there.
+Use [this link](https://www.patreon.com/collection/2257751) to download the zip file then open it on your desktop. Open the app that unzips from it. It will then say something about the fact that can't scan for malware. It will give you two options: "Move to Trash" or "Done", hit done. Then go to System Settings -> Privacy & Security. Scroll until you see "'Forsaken Legends Cursed Isle' was blocked to protect your Mac." Hit open anyway, then again when the window shows up, and follow the steps it shows from there.
 
 ---
 
@@ -58,7 +56,7 @@ Use [this link](https://sullydux.github.io/Curse/MacOS/) to download the zip fil
 
 This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). The controller configuration is listed below and is not changeable. To connect a controller either plug it into your devive or connect it to your device with Bluetooth. Then you have to interact with the game, pressing start will work, for the game to notice the contoller. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
 
-![Controller Configuration](config.png)
+![Controller Configuration](RM/config.png)
 
 **Controller Buttons:**
 - A — 1, Sets current item to first slot
