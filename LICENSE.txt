@@ -57,7 +57,7 @@ Third-party assets are subject to their respective licenses.
 --------------------------------------------------------------------------
 
 Credits:
-https://sullydux.github.io/Curse/RM/
+https://sullybase.github.io/Curse/RM/
 
 U.S. Copyright information:
 https://www.copyright.gov/help/faq/faq-general.html
