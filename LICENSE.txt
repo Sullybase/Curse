@@ -1,5 +1,6 @@
 Copyright © 2025–2026 Sullydux (GitHub). All rights reserved except as expressly permitted in this license.
 Effective November 26, 2025.
+Amended November 3, 2026 (added AI Training Prohibition; clarified Scratch hosting status).
 
 Permission is granted to play the game and to share links to its official versions (specified below) for non-commercial, personal use only.
 
@@ -16,13 +17,37 @@ Scratch remixes are allowed and preferred under the following conditions:
 
     3. The remix complies with the Scratch Community Guidelines.
 
-    4. Any version exported, packaged, or distributed  off of the Scratch platform is not considered a Scratch remix and is subject to the full restrictions of this license. 
+    4. Any version exported, packaged, or distributed  off of the Scratch platform is not considered a Scratch remix and is subject to the full restrictions of this license.
+
+    5. The remix is not used for AI Training (see "AI Training Prohibition" below).
+
+Scratch remixes remain allowed under these conditions even though the code and assets of the original Scratch project have been removed.
+
+--------------------------------------------------------------------------
+
+AI Training Prohibition
+
+“AI Training” means using any material, in whole or in part, directly or indirectly, to train, pre-train, fine-tune, distill, evaluate, benchmark, or otherwise develop or improve any artificial intelligence, machine learning, or generative model or system, including large language models, code-generation models, image, audio, and video models, embeddings, and synthetic-data pipelines, whether commercial or non-commercial.
+
+“Protected Files” means (a) all original source code, scripts, art, audio, music, writing, designs, and data files of the game; (b) all Markdown (.md) files; and (c) all HTML (.html) files that contain game code. Protected Files do not include third-party materials, or any other files, including HTML pages that do not contain game code (such as pages that only render Markdown/readme content or display credits), which may contain AI-assisted content and are not covered by this AI Training Prohibition.
+
+The Protected Files (including in any Scratch remix, export, or packaged version) may NOT be used for AI Training. The Scratch remix permission above does not extend to AI Training. Without prior written permission from Sullydux, you may not:
+
+    1. Use the Protected Files or any part of them for AI Training.
+
+    2. Scrape, crawl, mine, or collect the Protected Files or any part of them (including from official sources, mirrors, repositories, forks, or remixes) to build, expand, or maintain a dataset or corpus for AI Training.
+
+    3. Use the Protected Files or any part of them as input to a generative AI system to produce derivative works, imitations, or substantially similar content.
+
+    4. Authorize, assist, or knowingly allow anyone else to do any of the above.
+
+Sullydux expressly reserves all rights in the Protected Files, including the right to opt out of any text and data mining or similar exception or limitation under applicable law (including, where it applies, Article 4 of Directive (EU) 2019/790). Playing the game does not violate this section. Third-party assets are governed solely by their own licenses.
 
 --------------------------------------------------------------------------
 
 Official versions of the game:
 
-Scratch:
+The original Scratch version, which has had its code and assets removed as of November 3, 2026, but whose link is still valid, is available at:
 https://scratch.mit.edu/projects/963768137/
 
 Itch.io:
